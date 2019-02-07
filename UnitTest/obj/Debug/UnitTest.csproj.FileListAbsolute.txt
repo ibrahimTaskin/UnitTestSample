@@ -1,0 +1,6 @@
+D:\Programlar\C# Proje\UnitTestOrnek\UnitTest\bin\Debug\UnitTest.dll
+D:\Programlar\C# Proje\UnitTestOrnek\UnitTest\bin\Debug\UnitTest.pdb
+D:\Programlar\C# Proje\UnitTestOrnek\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+D:\Programlar\C# Proje\UnitTestOrnek\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\Programlar\C# Proje\UnitTestOrnek\UnitTest\obj\Debug\UnitTest.dll
+D:\Programlar\C# Proje\UnitTestOrnek\UnitTest\obj\Debug\UnitTest.pdb
